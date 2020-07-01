@@ -2,4 +2,5 @@
 //  AppDelegate.swift
 //  BlockchainSwift
 //
-//  Created by Alex Tarragó
+//  Created by Alex Tarragó on 09/05/2018.
+// 
