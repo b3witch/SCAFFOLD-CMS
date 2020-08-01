@@ -19,4 +19,4 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         return true
     }
 
-    func applicat
+    func applicationWillResignActive(_ appli
