@@ -20,4 +20,4 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
     func applicationWillResignActive(_ application: UIApplication) {
-        // Sent when the ap
+        // Sent when the application is about to move fro
