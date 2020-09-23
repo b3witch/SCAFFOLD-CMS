@@ -29,4 +29,5 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // If your application supports background execution, this method is called instead of applicationWillTerminate: when the user quits.
     }
 
-    func applicationWillEnterForeground(_ application: UI
+    func applicationWillEnterForeground(_ application: UIApplication) {
+        // C
