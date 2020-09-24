@@ -30,4 +30,4 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
     func applicationWillEnterForeground(_ application: UIApplication) {
-        // Called as part of the transition from the background 
+        // Called as part of the transition from the background to the active state; here
