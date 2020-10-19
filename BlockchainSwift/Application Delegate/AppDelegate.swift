@@ -34,4 +34,4 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
     func applicationDidBecomeActive(_ application: UIApplication) {
-        // Restart any tasks that were paused (or not yet starte
+        // Restart any tasks that were paused (or not yet started) while the applicati
