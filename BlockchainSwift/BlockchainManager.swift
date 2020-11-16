@@ -2,4 +2,5 @@
 //  BlockchainManager.swift
 //  BlockchainSwift
 //
-//  Created by Alex T
+//  Created by Alex Tarragó on 09/05/2018.
+//  Cop
