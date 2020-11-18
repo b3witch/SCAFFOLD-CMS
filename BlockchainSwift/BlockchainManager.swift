@@ -3,4 +3,4 @@
 //  BlockchainSwift
 //
 //  Created by Alex Tarragó on 09/05/2018.
-//  Cop
+//  Copyright © 2018 Dribba S.
