@@ -8,4 +8,5 @@
 
 import UIKit
 
-class Blockc
+class BlockchainManager {
+    let blockchain =
