@@ -12,4 +12,4 @@ class BlockchainManager {
     let blockchain = Blockchain()
     
     // MARK: - Crear una nueva transacción
-    func send(s
+    func send(sender: String, recipien
