@@ -9,4 +9,6 @@
 import UIKit
 
 class BlockchainManager {
-    let blockchain =
+    let blockchain = Blockchain()
+    
+    /
