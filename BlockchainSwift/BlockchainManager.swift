@@ -11,4 +11,5 @@ import UIKit
 class BlockchainManager {
     let blockchain = Blockchain()
     
-    // MARK: - Crear una n
+    // MARK: - Crear una nueva transacción
+    func send(s
