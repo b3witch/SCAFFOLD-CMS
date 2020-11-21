@@ -11,4 +11,4 @@ import UIKit
 class BlockchainManager {
     let blockchain = Blockchain()
     
-    /
+    // MARK: - Crear una n
