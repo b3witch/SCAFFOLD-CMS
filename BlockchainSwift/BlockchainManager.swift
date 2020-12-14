@@ -17,4 +17,4 @@ class BlockchainManager {
     }
     
     // MARK: - Minar un nuevo bloque
-    func mi
+    func mine(recipient: S
