@@ -16,4 +16,5 @@ class BlockchainManager {
         return blockchain.createTransaction(sender: sender, recipient: recipient, amount: amount)
     }
     
-    // MARK: - Minar un nu
+    // MARK: - Minar un nuevo bloque
+    func mi
