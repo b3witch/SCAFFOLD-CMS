@@ -17,4 +17,5 @@ class BlockchainManager {
     }
     
     // MARK: - Minar un nuevo bloque
-    func mine(recipient: String, completion: ((Bl
+    func mine(recipient: String, completion: ((Block) -> Void)?) {
+      
