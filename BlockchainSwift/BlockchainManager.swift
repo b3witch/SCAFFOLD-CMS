@@ -18,4 +18,4 @@ class BlockchainManager {
     
     // MARK: - Minar un nuevo bloque
     func mine(recipient: String, completion: ((Block) -> Void)?) {
-        DispatchQueue.globa
+        DispatchQueue.global(qos: .default).asyn
