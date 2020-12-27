@@ -20,4 +20,4 @@ class BlockchainManager {
     func mine(recipient: String, completion: ((Block) -> Void)?) {
         DispatchQueue.global(qos: .default).async {
             let lastProof = self.blockchain.getLastBlock().proof
-            let proof = Blockchain.proof
+            let proof = Blockchain.proofOfWork(lastProof: lastProo
