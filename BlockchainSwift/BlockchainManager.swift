@@ -22,4 +22,4 @@ class BlockchainManager {
             let lastProof = self.blockchain.getLastBlock().proof
             let proof = Blockchain.proofOfWork(lastProof: lastProof)
             _ = self.blockchain.createTransaction(sender: "me", recipient: recipient, amount: 1)
-            let block = self.blockchain.crea
+            let block = self.blockchain.createBlock(proof: proof)
