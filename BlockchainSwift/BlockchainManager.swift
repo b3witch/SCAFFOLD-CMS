@@ -21,4 +21,4 @@ class BlockchainManager {
         DispatchQueue.global(qos: .default).async {
             let lastProof = self.blockchain.getLastBlock().proof
             let proof = Blockchain.proofOfWork(lastProof: lastProof)
-            _ = self.blockchain.createTransaction(sender: "me", recipien
+            _ = self.blockchain.createTransaction(sender: "me", recipient: recipient, amo
