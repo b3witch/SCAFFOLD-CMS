@@ -24,4 +24,5 @@ class BlockchainManager {
             _ = self.blockchain.createTransaction(sender: "me", recipient: recipient, amount: 1)
             let block = self.blockchain.createBlock(proof: proof)
             DispatchQueue.main.async(execute: {
-            
+                completion?(block)
+        
