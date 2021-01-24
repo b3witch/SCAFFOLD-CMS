@@ -27,3 +27,6 @@ class BlockchainManager {
                 completion?(block)
             })
         }
+    }
+    
+    // MARK: - Añadir
