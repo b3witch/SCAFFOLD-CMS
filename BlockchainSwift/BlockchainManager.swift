@@ -25,4 +25,5 @@ class BlockchainManager {
             let block = self.blockchain.createBlock(proof: proof)
             DispatchQueue.main.async(execute: {
                 completion?(block)
-        
+            })
+        }
