@@ -29,4 +29,4 @@ class BlockchainManager {
         }
     }
     
-    // MARK: - Añadir
+    // MARK: - Añadir un nuevo bloque 
