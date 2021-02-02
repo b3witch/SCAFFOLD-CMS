@@ -29,4 +29,5 @@ class BlockchainManager {
         }
     }
     
-    // MARK: - Añadir un nuevo bloque 
+    // MARK: - Añadir un nuevo bloque a la cadena
+    func cha
