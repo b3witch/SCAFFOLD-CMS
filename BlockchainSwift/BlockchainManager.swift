@@ -31,4 +31,6 @@ class BlockchainManager {
     
     // MARK: - Añadir un nuevo bloque a la cadena
     func chain() -> [Block] {
-        return blockchain.
+        return blockchain.ourChain
+    }
+}
