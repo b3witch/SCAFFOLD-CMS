@@ -30,4 +30,5 @@ class BlockchainManager {
     }
     
     // MARK: - Añadir un nuevo bloque a la cadena
-    func cha
+    func chain() -> [Block] {
+        
