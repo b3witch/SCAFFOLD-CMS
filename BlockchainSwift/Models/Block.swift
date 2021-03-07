@@ -2,4 +2,4 @@
 //  Block.swift
 //  BlockchainSwift
 //
-//  Created
+//  Created by Alex Tarragó on 
