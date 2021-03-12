@@ -2,4 +2,5 @@
 //  Block.swift
 //  BlockchainSwift
 //
-//  Created by Alex Tarragó on 
+//  Created by Alex Tarragó on 09/05/2018.
+//  
