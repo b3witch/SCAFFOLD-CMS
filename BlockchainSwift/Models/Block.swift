@@ -6,4 +6,6 @@
 //  Copyright © 2018 Dribba S.L. All rights reserved.
 //
 
-import
+import Foundation
+
+struct Block: Cod
