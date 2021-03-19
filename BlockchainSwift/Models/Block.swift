@@ -8,4 +8,5 @@
 
 import Foundation
 
-struct Block: Cod
+struct Block: Codable {
+    let index: Int
