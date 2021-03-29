@@ -11,4 +11,4 @@ import Foundation
 struct Block: Codable {
     let index: Int
     let timestamp: Double
- 
+    let transaction
