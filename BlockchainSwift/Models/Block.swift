@@ -13,4 +13,6 @@ struct Block: Codable {
     let timestamp: Double
     let transactions: [Transaction]
     let proof: Int
-    let previousH
+    let previousHash: Data
+    
+    
