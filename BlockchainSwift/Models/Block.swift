@@ -12,4 +12,5 @@ struct Block: Codable {
     let index: Int
     let timestamp: Double
     let transactions: [Transaction]
-    let proo
+    let proof: Int
+    let previousH
