@@ -15,4 +15,4 @@ struct Block: Codable {
     let proof: Int
     let previousHash: Data
     
-    // MARK: - Generamos el hash 
+    // MARK: - Generamos el hash para este bloque
