@@ -16,3 +16,5 @@ struct Block: Codable {
     let previousHash: Data
     
     // MARK: - Generamos el hash para este bloque
+    func hash() -> Data {
+        let 
