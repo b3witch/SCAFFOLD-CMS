@@ -17,4 +17,4 @@ struct Block: Codable {
     
     // MARK: - Generamos el hash para este bloque
     func hash() -> Data {
-        let 
+        let encoder = JSONEncoder()
