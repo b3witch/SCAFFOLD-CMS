@@ -19,4 +19,4 @@ struct Block: Codable {
     func hash() -> Data {
         let encoder = JSONEncoder()
         let data = try! encoder.encode(self)
-  
+        return data.sha2
