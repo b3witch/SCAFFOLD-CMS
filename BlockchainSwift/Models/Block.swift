@@ -22,4 +22,4 @@ struct Block: Codable {
         return data.sha256()
     }
     
-    // MA
+    // MARK: - Información básica 
