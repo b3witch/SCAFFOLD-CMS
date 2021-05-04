@@ -23,4 +23,4 @@ struct Block: Codable {
     }
     
     // MARK: - Información básica acerca de este bloque
-    f
+    func description() -> Strin
