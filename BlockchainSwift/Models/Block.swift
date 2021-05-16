@@ -23,4 +23,5 @@ struct Block: Codable {
     }
     
     // MARK: - Información básica acerca de este bloque
-    func description() -> Strin
+    func description() -> String {
+        return "Bloque
