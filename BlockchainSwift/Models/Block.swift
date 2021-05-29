@@ -24,4 +24,7 @@ struct Block: Codable {
     
     // MARK: - Información básica acerca de este bloque
     func description() -> String {
-        return "Bloque #\(index) (creado el \(timestamp)), con \(transactions.count) tra
+        return "Bloque #\(index) (creado el \(timestamp)), con \(transactions.count) transacciones"
+    }
+    
+  
