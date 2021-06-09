@@ -27,4 +27,4 @@ struct Block: Codable {
         return "Bloque #\(index) (creado el \(timestamp)), con \(transactions.count) transacciones"
     }
     
-    init(index: Int, transaction
+    init(index: Int, transactions: [Transaction], proof: In
