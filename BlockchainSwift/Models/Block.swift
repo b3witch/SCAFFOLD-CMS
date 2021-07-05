@@ -29,4 +29,4 @@ struct Block: Codable {
     
     init(index: Int, transactions: [Transaction], proof: Int, previousHash: Data) {
         self.index = index
-   
+        self.transactions = 
