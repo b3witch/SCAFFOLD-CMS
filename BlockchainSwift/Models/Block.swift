@@ -31,4 +31,4 @@ struct Block: Codable {
         self.index = index
         self.transactions = transactions
         self.proof = proof
-        
+        self.previ
