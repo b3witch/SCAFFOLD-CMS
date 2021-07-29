@@ -33,4 +33,4 @@ struct Block: Codable {
         self.proof = proof
         self.previousHash = previousHash
         
-        // Ge
+        // Generamos el timestamp para
