@@ -34,4 +34,4 @@ struct Block: Codable {
         self.previousHash = previousHash
         
         // Generamos el timestamp para este bloque
-        self.
+        self.timestamp = Date().timeInterva
