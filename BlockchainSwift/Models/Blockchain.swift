@@ -1,3 +1,5 @@
 //
 //  Blockchain.swift
-//  Blockc
+//  BlockchainSwift
+//
+//  Created by Ale
