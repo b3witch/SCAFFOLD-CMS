@@ -2,4 +2,4 @@
 //  Blockchain.swift
 //  BlockchainSwift
 //
-//  Created by Ale
+//  Created by Alex Tarragó on 09/
