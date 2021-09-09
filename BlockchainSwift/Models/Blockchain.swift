@@ -10,4 +10,6 @@ import UIKit
 
 class Blockchain {
     private var pendingTransactions: [Transaction] = []
-    var ourChain: [Blo
+    var ourChain: [Block] = []
+    
+    init(
