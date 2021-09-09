@@ -12,4 +12,5 @@ class Blockchain {
     private var pendingTransactions: [Transaction] = []
     var ourChain: [Block] = []
     
-    init(
+    init() {
+        create
