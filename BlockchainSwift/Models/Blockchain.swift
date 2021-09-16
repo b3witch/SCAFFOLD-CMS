@@ -16,4 +16,5 @@ class Blockchain {
         createBlock(proof: 80, previousHash: "0".data(using: .utf8))
     }
     
-    @discard
+    @discardableResult
+    func 
