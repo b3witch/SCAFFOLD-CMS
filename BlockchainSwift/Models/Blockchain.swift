@@ -13,4 +13,4 @@ class Blockchain {
     var ourChain: [Block] = []
     
     init() {
-        create
+        createBlock(proof: 80, previousHa
