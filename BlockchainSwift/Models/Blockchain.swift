@@ -18,4 +18,5 @@ class Blockchain {
     
     @discardableResult
     func createBlock(proof: Int, previousHash: Data? = nil) -> Block {
-        let prevHash: 
+        let prevHash: Data
+        if let pre
