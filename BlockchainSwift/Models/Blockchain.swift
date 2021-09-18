@@ -17,4 +17,4 @@ class Blockchain {
     }
     
     @discardableResult
-    func 
+    func createBlock(proof: Int, previ
