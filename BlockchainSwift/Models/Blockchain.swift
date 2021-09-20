@@ -20,4 +20,4 @@ class Blockchain {
     func createBlock(proof: Int, previousHash: Data? = nil) -> Block {
         let prevHash: Data
         if let previousHash = previousHash {
-            prev
+            prevHash = previousHas
