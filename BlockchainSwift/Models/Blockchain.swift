@@ -22,4 +22,4 @@ class Blockchain {
         if let previousHash = previousHash {
             prevHash = previousHash
         } else {
-        
+            prevHash = getLastB
