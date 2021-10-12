@@ -24,4 +24,4 @@ class Blockchain {
         } else {
             prevHash = getLastBlock().hash()
         }
-  
+        let block
