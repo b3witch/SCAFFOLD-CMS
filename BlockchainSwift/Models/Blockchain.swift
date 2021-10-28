@@ -24,4 +24,4 @@ class Blockchain {
         } else {
             prevHash = getLastBlock().hash()
         }
-        let block = Block(index: ourChain.count, transactions: pendingTransact
+        let block = Block(index: ourChain.count, transactions: pendingTransactions, proof: proof, previ
