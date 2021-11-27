@@ -26,4 +26,5 @@ class Blockchain {
         }
         let block = Block(index: ourChain.count, transactions: pendingTransactions, proof: proof, previousHash: prevHash)
         pendingTransactions.removeAll()
-        ourChain.append(
+        ourChain.append(block)
+        return b
