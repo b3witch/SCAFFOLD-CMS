@@ -30,4 +30,4 @@ class Blockchain {
         return block
     }
     
-    fu
+    func createTransaction(sender: S
