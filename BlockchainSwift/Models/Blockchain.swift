@@ -30,4 +30,5 @@ class Blockchain {
         return block
     }
     
-    func createTransaction(sender: String, recipient: String, amount: Int) ->
+    func createTransaction(sender: String, recipient: String, amount: Int) -> Int {
+        let transactio
