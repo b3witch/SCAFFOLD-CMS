@@ -37,4 +37,4 @@ class Blockchain {
     }
     
     func getLastBlock() -> Block {
-        guard le
+        guard let last = ourChain.last el
