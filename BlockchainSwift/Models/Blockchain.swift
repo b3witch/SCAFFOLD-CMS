@@ -33,4 +33,7 @@ class Blockchain {
     func createTransaction(sender: String, recipient: String, amount: Int) -> Int {
         let transaction = Transaction(sender: sender, recipient: recipient, amount: amount)        
         pendingTransactions.append(transaction)
-        return getLastBlock(
+        return getLastBlock().index + 1
+    }
+    
+    func
