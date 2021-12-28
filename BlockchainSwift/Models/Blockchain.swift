@@ -36,4 +36,5 @@ class Blockchain {
         return getLastBlock().index + 1
     }
     
-    func getLastBlock() -
+    func getLastBlock() -> Block {
+        guard le
