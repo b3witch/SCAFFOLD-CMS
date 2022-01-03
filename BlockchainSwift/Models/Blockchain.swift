@@ -41,3 +41,6 @@ class Blockchain {
             fatalError("Nuestra cadena ha de contener, al menos, un bloque original.")
         }
         return last
+    }
+    
+    // MARK: - Algo
