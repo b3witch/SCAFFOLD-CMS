@@ -43,4 +43,5 @@ class Blockchain {
         return last
     }
     
-    // MARK: - Algoritmo simple de 
+    // MARK: - Algoritmo simple de validación de bloques
+    class 
