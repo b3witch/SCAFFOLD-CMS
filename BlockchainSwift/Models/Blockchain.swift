@@ -38,4 +38,4 @@ class Blockchain {
     
     func getLastBlock() -> Block {
         guard let last = ourChain.last else {
-            fatalE
+            fatalError("Nuestra cadena ha de 
