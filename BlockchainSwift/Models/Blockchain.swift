@@ -38,4 +38,5 @@ class Blockchain {
     
     func getLastBlock() -> Block {
         guard let last = ourChain.last else {
-            fatalError("Nuestra cadena ha de contener, al menos, un b
+            fatalError("Nuestra cadena ha de contener, al menos, un bloque original.")
+  
