@@ -46,4 +46,4 @@ class Blockchain {
     // MARK: - Algoritmo simple de validación de bloques
     class func proofOfWork(lastProof: Int) -> Int {
         var proof: Int = 0
-  
+        while !validProof(
