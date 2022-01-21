@@ -48,4 +48,5 @@ class Blockchain {
         var proof: Int = 0
         while !validProof(lastProof: lastProof, proof: proof) {
             proof += 1
-   
+        }
+        return pr
