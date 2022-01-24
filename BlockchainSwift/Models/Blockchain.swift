@@ -49,4 +49,6 @@ class Blockchain {
         while !validProof(lastProof: lastProof, proof: proof) {
             proof += 1
         }
-        return pr
+        return proof
+    }
+    class fun
