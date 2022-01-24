@@ -51,4 +51,5 @@ class Blockchain {
         }
         return proof
     }
-    class func validProof(lastProof: In
+    class func validProof(lastProof: Int, proof: Int) -> Bool {
+        guard
