@@ -52,4 +52,4 @@ class Blockchain {
         return proof
     }
     class func validProof(lastProof: Int, proof: Int) -> Bool {
-        guard
+        guard let result = String("\(l
