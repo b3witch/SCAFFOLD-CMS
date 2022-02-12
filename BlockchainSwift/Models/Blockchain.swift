@@ -53,4 +53,5 @@ class Blockchain {
     }
     class func validProof(lastProof: Int, proof: Int) -> Bool {
         guard let result = String("\(lastProof)\(proof)").data(using: .utf8) else {
-    
+            fatalError()
+      
