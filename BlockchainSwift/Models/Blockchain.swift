@@ -56,4 +56,5 @@ class Blockchain {
             fatalError()
         }
         let result_hash = result.sha256().hexDigest()
-        return result_has
+        return result_hash.prefix(4) == "0000"
+    }
