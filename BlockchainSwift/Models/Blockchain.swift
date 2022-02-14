@@ -55,4 +55,5 @@ class Blockchain {
         guard let result = String("\(lastProof)\(proof)").data(using: .utf8) else {
             fatalError()
         }
-        let result_hash = result.sh
+        let result_hash = result.sha256().hexDigest()
+ 
