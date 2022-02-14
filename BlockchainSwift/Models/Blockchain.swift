@@ -56,4 +56,4 @@ class Blockchain {
             fatalError()
         }
         let result_hash = result.sha256().hexDigest()
- 
+        return result_has
