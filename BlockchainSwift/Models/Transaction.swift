@@ -8,4 +8,4 @@
 
 import UIKit
 
-class T
+class Transaction: Cod
