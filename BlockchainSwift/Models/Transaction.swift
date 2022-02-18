@@ -8,4 +8,5 @@
 
 import UIKit
 
-class Transaction: Cod
+class Transaction: Codable {
+    let sen
