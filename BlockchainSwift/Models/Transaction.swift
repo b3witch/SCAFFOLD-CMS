@@ -9,4 +9,5 @@
 import UIKit
 
 class Transaction: Codable {
-    let sen
+    let sender: String
+    let r
