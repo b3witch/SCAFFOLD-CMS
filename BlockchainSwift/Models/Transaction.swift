@@ -10,4 +10,5 @@ import UIKit
 
 class Transaction: Codable {
     let sender: String
-    let r
+    let recipient: String
+    let amoun
