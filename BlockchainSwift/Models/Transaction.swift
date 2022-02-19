@@ -11,4 +11,6 @@ import UIKit
 class Transaction: Codable {
     let sender: String
     let recipient: String
-    let amoun
+    let amount: Int 
+    
+    init(sender
