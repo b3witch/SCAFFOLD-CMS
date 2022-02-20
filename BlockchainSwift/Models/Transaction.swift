@@ -13,4 +13,4 @@ class Transaction: Codable {
     let recipient: String
     let amount: Int 
     
-    init(sender
+    init(sender: String, recipient: 
