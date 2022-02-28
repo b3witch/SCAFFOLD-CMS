@@ -15,3 +15,4 @@ class Transaction: Codable {
     
     init(sender: String, recipient: String, amount: Int) {
         self.sender = sender
+        self.recipient =
