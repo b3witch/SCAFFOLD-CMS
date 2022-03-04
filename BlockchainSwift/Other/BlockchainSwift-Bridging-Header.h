@@ -1,2 +1,2 @@
 //
-//  Use this fil
+//  Use this file to import your target's 
