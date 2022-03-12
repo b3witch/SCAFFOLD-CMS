@@ -8,4 +8,5 @@
 
 import UIKit
 
-extension 
+extension Data {
+    func sha256() 
