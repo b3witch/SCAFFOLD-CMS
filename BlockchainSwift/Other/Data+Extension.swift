@@ -9,4 +9,5 @@
 import UIKit
 
 extension Data {
-    func sha256() 
+    func sha256() -> Data {
+        guard let 
