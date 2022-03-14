@@ -10,4 +10,4 @@ import UIKit
 
 extension Data {
     func sha256() -> Data {
-        guard let res = NSMutableData(lengt
+        guard let res = NSMutableData(length: Int(CC_SHA256_DIGEST_LENG
