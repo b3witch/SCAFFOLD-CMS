@@ -11,4 +11,4 @@ import UIKit
 extension Data {
     func sha256() -> Data {
         guard let res = NSMutableData(length: Int(CC_SHA256_DIGEST_LENGTH)) else { fatalError() }
-        CC_SHA256((self as NSData).bytes, CC_LONG(self.count), re
+        CC_SHA256((self as NSData).bytes, CC_LONG(self.count), res.mutableBytes.assumi
