@@ -15,4 +15,5 @@ extension Data {
         return res as Data
     }
     
-    func hexDiges
+    func hexDigest() -> String {
+        re
