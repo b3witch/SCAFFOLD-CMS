@@ -16,4 +16,4 @@ extension Data {
     }
     
     func hexDigest() -> String {
-        re
+        return self.map({ Stri
