@@ -16,4 +16,6 @@ extension Data {
     }
     
     func hexDigest() -> String {
-        return self.map({ String(format: "%02x", $0) }
+        return self.map({ String(format: "%02x", $0) }).joined()
+    }
+}
