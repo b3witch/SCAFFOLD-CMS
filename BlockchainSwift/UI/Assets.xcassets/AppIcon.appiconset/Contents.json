@@ -78,4 +78,5 @@
     {
       "idiom" : "ipad",
       "size" : "76x76",
-      "sca
+      "scale" : "2x"
+    },
