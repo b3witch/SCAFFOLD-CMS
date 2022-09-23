@@ -31,3 +31,20 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="14"/>
                                 <state key="normal" title="1. Crear transacción">
+                                    <color key="titleColor" red="0.17254901960784313" green="0.78823529411764703" blue="0.70980392156862748" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="sendTransactionButtonActionHandler:" destination="BYZ-38-t0r" eventType="touchUpInside" id="oke-lW-8WZ"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KHn-Ri-yLu">
+                                <rect key="frame" x="193.66666666666663" y="708" width="161.33333333333337" height="50"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="14"/>
+                                <state key="normal" title="2. Minar bloque">
+                                    <color key="titleColor" red="0.20784313725490197" green="0.49019607843137253" blue="0.75686274509803919" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="mineBlockButtonActionHandler:" destination="BYZ-38-t0r" eventType="touchUpInside" id="CCc-UL-6na"/>
+                                </connections>
+                            </button>
