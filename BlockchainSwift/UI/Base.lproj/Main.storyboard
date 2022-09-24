@@ -98,3 +98,24 @@
                             <constraint firstItem="Jft-1M-4qF" firstAttribute="height" secondItem="30a-A2-XhH" secondAttribute="height" multiplier="1:2" id="acK-hz-DbJ"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="PFP-ua-aXV" secondAttribute="bottom" constant="20" id="cYi-LY-WNv"/>
                             <constraint firstAttribute="bottom" secondItem="UaD-iS-Ywh" secondAttribute="bottom" id="fFb-BH-9hR"/>
+                            <constraint firstItem="iLM-5C-1Qk" firstAttribute="centerX" secondItem="bp6-be-1Cr" secondAttribute="centerX" id="fi4-Fp-eQ7"/>
+                            <constraint firstItem="KHn-Ri-yLu" firstAttribute="leading" secondItem="PFP-ua-aXV" secondAttribute="trailing" constant="12" id="gb8-ig-OkP"/>
+                            <constraint firstItem="PFP-ua-aXV" firstAttribute="top" secondItem="30a-A2-XhH" secondAttribute="bottom" constant="16" id="h36-VI-eM4"/>
+                            <constraint firstItem="ePh-cd-K7A" firstAttribute="centerX" secondItem="bp6-be-1Cr" secondAttribute="centerX" id="hFD-vj-Is6"/>
+                            <constraint firstItem="UaD-iS-Ywh" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="llk-P8-lem"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Jft-1M-4qF" secondAttribute="trailing" constant="16" id="oKn-qQ-hPQ"/>
+                            <constraint firstItem="KHn-Ri-yLu" firstAttribute="width" secondItem="PFP-ua-aXV" secondAttribute="width" id="otL-Rz-SMA"/>
+                            <constraint firstItem="KHn-Ri-yLu" firstAttribute="centerY" secondItem="PFP-ua-aXV" secondAttribute="centerY" id="sCm-Yf-M17"/>
+                            <constraint firstItem="30a-A2-XhH" firstAttribute="top" secondItem="iLM-5C-1Qk" secondAttribute="bottom" constant="8" id="vdp-1U-dpz"/>
+                            <constraint firstItem="iLM-5C-1Qk" firstAttribute="top" secondItem="Jft-1M-4qF" secondAttribute="bottom" constant="30" id="yfj-GT-9OL"/>
+                            <constraint firstItem="bp6-be-1Cr" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="20" id="zB0-5q-SrE"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                    <connections>
+                        <outlet property="chainTextView" destination="30a-A2-XhH" id="Tgs-yn-ilM"/>
+                        <outlet property="createTransactionButton" destination="PFP-ua-aXV" id="bzT-AF-j5J"/>
+                        <outlet property="mainBlockButton" destination="KHn-Ri-yLu" id="o6E-Ra-FFH"/>
+                        <outlet property="operationTextView" destination="Jft-1M-4qF" id="eoQ-Ky-bMs"/>
+                    </connections>
+                </viewController>
