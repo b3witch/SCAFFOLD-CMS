@@ -119,3 +119,13 @@
                         <outlet property="operationTextView" destination="Jft-1M-4qF" id="eoQ-Ky-bMs"/>
                     </connections>
                 </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="136.80000000000001" y="132.26600985221674"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="background" width="2839" height="1389"/>
+        <image name="transaction-icon" width="153" height="153"/>
+    </resources>
+</document>
