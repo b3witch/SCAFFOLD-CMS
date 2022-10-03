@@ -2,4 +2,4 @@
 //  ViewController.swift
 //  BlockchainSwift
 //
-//  Cr
+//  Created by Alex 
