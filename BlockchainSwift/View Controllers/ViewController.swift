@@ -9,4 +9,4 @@
 import UIKit
 
 class ViewController: UIViewController {
-    @IBOutlet w
+    @IBOutlet weak var operationTe
