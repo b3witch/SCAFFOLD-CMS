@@ -8,4 +8,5 @@
 
 import UIKit
 
-class ViewController: UIViewContr
+class ViewController: UIViewController {
+    @IBOutlet w
