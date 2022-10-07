@@ -9,4 +9,5 @@
 import UIKit
 
 class ViewController: UIViewController {
-    @IBOutlet weak var operationTe
+    @IBOutlet weak var operationTextView: UITextView!
+    @I
