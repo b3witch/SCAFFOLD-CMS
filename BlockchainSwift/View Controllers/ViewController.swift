@@ -10,4 +10,5 @@ import UIKit
 
 class ViewController: UIViewController {
     @IBOutlet weak var operationTextView: UITextView!
-    @IBOutlet weak var chainTextView: U
+    @IBOutlet weak var chainTextView: UITextView!
+    @IBO
