@@ -13,4 +13,6 @@ class ViewController: UIViewController {
     @IBOutlet weak var chainTextView: UITextView!
     @IBOutlet weak var createTransactionButton: UIButton!
     @IBOutlet weak var mainBlockButton: UIButton!
-    private let manager = Blockch
+    private let manager = BlockchainManager()
+
+    // MARK: - View l
