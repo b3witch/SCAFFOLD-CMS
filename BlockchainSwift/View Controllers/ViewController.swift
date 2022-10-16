@@ -12,4 +12,4 @@ class ViewController: UIViewController {
     @IBOutlet weak var operationTextView: UITextView!
     @IBOutlet weak var chainTextView: UITextView!
     @IBOutlet weak var createTransactionButton: UIButton!
-    @IBOutlet weak var mainB
+    @IBOutlet weak var mainBlockButton: UIButton!
