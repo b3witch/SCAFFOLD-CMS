@@ -15,4 +15,5 @@ class ViewController: UIViewController {
     @IBOutlet weak var mainBlockButton: UIButton!
     private let manager = BlockchainManager()
 
-    // MARK: - View l
+    // MARK: - View lifecycle methods
+    
