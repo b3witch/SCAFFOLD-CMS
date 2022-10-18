@@ -16,4 +16,5 @@ class ViewController: UIViewController {
     private let manager = BlockchainManager()
 
     // MARK: - View lifecycle methods
-    override func viewDi
+    override func viewDidLoad() {
+        super.
