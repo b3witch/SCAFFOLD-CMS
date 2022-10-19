@@ -17,4 +17,5 @@ class ViewController: UIViewController {
 
     // MARK: - View lifecycle methods
     override func viewDidLoad() {
-        super.
+        super.viewDidLoad()
+        self.
