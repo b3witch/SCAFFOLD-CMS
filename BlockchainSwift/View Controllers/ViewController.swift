@@ -18,4 +18,6 @@ class ViewController: UIViewController {
     // MARK: - View lifecycle methods
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.
+        self.setupAppearance()
+    }
+  
