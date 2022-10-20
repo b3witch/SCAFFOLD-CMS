@@ -21,4 +21,5 @@ class ViewController: UIViewController {
         self.setupAppearance()
     }
     
-    // MARK: -
+    // MARK: - Appearance methods
+  
