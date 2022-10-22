@@ -22,4 +22,4 @@ class ViewController: UIViewController {
     }
     
     // MARK: - Appearance methods
-  
+    func setupAppearance
