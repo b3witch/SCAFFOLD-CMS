@@ -22,4 +22,5 @@ class ViewController: UIViewController {
     }
     
     // MARK: - Appearance methods
-    func setupAppearance
+    func setupAppearance() {
+        self.cre
