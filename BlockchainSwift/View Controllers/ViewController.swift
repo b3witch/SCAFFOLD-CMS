@@ -23,4 +23,4 @@ class ViewController: UIViewController {
     
     // MARK: - Appearance methods
     func setupAppearance() {
-        self.cre
+        self.createTransactionButton
