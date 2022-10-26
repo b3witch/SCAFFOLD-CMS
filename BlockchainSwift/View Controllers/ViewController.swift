@@ -23,4 +23,5 @@ class ViewController: UIViewController {
     
     // MARK: - Appearance methods
     func setupAppearance() {
-        self.createTransactionButton
+        self.createTransactionButton.layer.cornerRadius = 4
+    
