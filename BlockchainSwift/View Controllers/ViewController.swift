@@ -27,4 +27,4 @@ class ViewController: UIViewController {
         self.createTransactionButton.layer.masksToBounds = true
         
         self.mainBlockButton.layer.cornerRadius = 4
-        self.mainBlock
+        self.mainBlockButton.layer.masksToBou
