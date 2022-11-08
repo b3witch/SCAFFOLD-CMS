@@ -30,4 +30,6 @@ class ViewController: UIViewController {
         self.mainBlockButton.layer.masksToBounds = true
         
         self.operationTextView.layer.cornerRadius = 4
-        self.operationTextView.layer.masksToBound
+        self.operationTextView.layer.masksToBounds = true
+        
+        s
