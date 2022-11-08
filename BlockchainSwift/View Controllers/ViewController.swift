@@ -32,4 +32,4 @@ class ViewController: UIViewController {
         self.operationTextView.layer.cornerRadius = 4
         self.operationTextView.layer.masksToBounds = true
         
-        s
+        self.chainTextView.layer.corner
