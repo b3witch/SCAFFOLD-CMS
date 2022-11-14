@@ -36,4 +36,5 @@ class ViewController: UIViewController {
         self.chainTextView.layer.masksToBounds = true
     }
     
-    // MARK: - Chain 
+    // MARK: - Chain Handling methods
+    fun
