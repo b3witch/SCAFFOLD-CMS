@@ -38,4 +38,5 @@ class ViewController: UIViewController {
     
     // MARK: - Chain Handling methods
     func updateBlockchain() {
-        let ourChain = se
+        let ourChain = self.manager.chain()
+     
