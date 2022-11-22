@@ -40,4 +40,5 @@ class ViewController: UIViewController {
     func updateBlockchain() {
         let ourChain = self.manager.chain()
         var text = ""
-        for block in ou
+        for block in ourChain {
+            tex
