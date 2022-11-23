@@ -43,4 +43,4 @@ class ViewController: UIViewController {
         for block in ourChain {
             text.append(block.description() + "\n\n")
         }
-        self
+        self.chainTextView.text = tex
