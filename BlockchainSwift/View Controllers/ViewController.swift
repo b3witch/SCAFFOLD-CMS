@@ -41,4 +41,4 @@ class ViewController: UIViewController {
         let ourChain = self.manager.chain()
         var text = ""
         for block in ourChain {
-            tex
+            text.append(block.
