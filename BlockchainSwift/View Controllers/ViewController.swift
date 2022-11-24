@@ -46,4 +46,5 @@ class ViewController: UIViewController {
         self.chainTextView.text = text
     }
     
-    // MARK: - Button Action Handle
+    // MARK: - Button Action Handler methods
+    @IBAc
