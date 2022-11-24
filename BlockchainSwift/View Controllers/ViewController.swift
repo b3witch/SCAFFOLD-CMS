@@ -43,4 +43,7 @@ class ViewController: UIViewController {
         for block in ourChain {
             text.append(block.description() + "\n\n")
         }
-        self.chainTextView.text = tex
+        self.chainTextView.text = text
+    }
+    
+    // MARK: - B
