@@ -47,4 +47,4 @@ class ViewController: UIViewController {
     }
     
     // MARK: - Button Action Handler methods
-    @IBAc
+    @IBAction func sendTransaction
