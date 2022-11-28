@@ -48,4 +48,4 @@ class ViewController: UIViewController {
     
     // MARK: - Button Action Handler methods
     @IBAction func sendTransactionButtonActionHandler(_ sender: Any) {
-        
+        let idx = self.man
