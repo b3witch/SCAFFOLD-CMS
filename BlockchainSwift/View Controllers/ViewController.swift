@@ -48,4 +48,5 @@ class ViewController: UIViewController {
     
     // MARK: - Button Action Handler methods
     @IBAction func sendTransactionButtonActionHandler(_ sender: Any) {
-        let idx = self.manager.send(sender: "me", recipient: "myBelovedFrie
+        let idx = self.manager.send(sender: "me", recipient: "myBelovedFriend", amount: 10)
+        se
