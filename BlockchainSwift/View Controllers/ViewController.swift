@@ -49,4 +49,5 @@ class ViewController: UIViewController {
     // MARK: - Button Action Handler methods
     @IBAction func sendTransactionButtonActionHandler(_ sender: Any) {
         let idx = self.manager.send(sender: "me", recipient: "myBelovedFriend", amount: 10)
-        self.operationTextView.text = "Una nueva transacción se añadirá al bloque \(idx)\n" + self.operationTextView.t
+        self.operationTextView.text = "Una nueva transacción se añadirá al bloque \(idx)\n" + self.operationTextView.text
+        self.updateBlo
