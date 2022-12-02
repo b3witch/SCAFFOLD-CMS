@@ -52,4 +52,4 @@ class ViewController: UIViewController {
         self.operationTextView.text = "Una nueva transacción se añadirá al bloque \(idx)\n" + self.operationTextView.text
         self.updateBlockchain()
     }
-    @IBA
+    @IBAction func mineBlockB
