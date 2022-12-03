@@ -52,4 +52,5 @@ class ViewController: UIViewController {
         self.operationTextView.text = "Una nueva transacción se añadirá al bloque \(idx)\n" + self.operationTextView.text
         self.updateBlockchain()
     }
-    @IBAction func mineBlockButtonActionHandler(_ se
+    @IBAction func mineBlockButtonActionHandler(_ sender: Any) {
+        let st
