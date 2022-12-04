@@ -53,4 +53,5 @@ class ViewController: UIViewController {
         self.updateBlockchain()
     }
     @IBAction func mineBlockButtonActionHandler(_ sender: Any) {
-        let st
+        let start = CACurrentMediaTime()
+    
