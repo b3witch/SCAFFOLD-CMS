@@ -54,4 +54,4 @@ class ViewController: UIViewController {
     }
     @IBAction func mineBlockButtonActionHandler(_ sender: Any) {
         let start = CACurrentMediaTime()
-        self.operationText
+        self.operationTextView.text = "Minando un nue
