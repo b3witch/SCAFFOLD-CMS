@@ -54,4 +54,5 @@ class ViewController: UIViewController {
     }
     @IBAction func mineBlockButtonActionHandler(_ sender: Any) {
         let start = CACurrentMediaTime()
-        self.operationTextView.text = "Minando un nuevo bloque...\n" + self.operationTex
+        self.operationTextView.text = "Minando un nuevo bloque...\n" + self.operationTextView.text
+        self.mana
