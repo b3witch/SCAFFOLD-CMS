@@ -58,4 +58,4 @@ class ViewController: UIViewController {
         self.manager.mine(recipient: "me") { (block) in
             let time = String(format: "%.1f segundos", CACurrentMediaTime() - start)
             self.operationTextView.text = "Un nuevo bloque se ha generado en \(time)\n" + self.operationTextView.text
-          
+            self.updateBlockchai
