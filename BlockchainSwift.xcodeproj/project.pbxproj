@@ -1,3 +1,25 @@
 
 // !$*UTF8*$!
 {
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		FF73632B20A380220033E9AB /* Blockchain.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF73632A20A380220033E9AB /* Blockchain.swift */; };
+		FF73633120A384D40033E9AB /* BlockchainManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF73633020A384D40033E9AB /* BlockchainManager.swift */; };
+		FFDD001820A34C6000C5AA26 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFDD001720A34C6000C5AA26 /* AppDelegate.swift */; };
+		FFDD001A20A34C6000C5AA26 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFDD001920A34C6000C5AA26 /* ViewController.swift */; };
+		FFDD001D20A34C6000C5AA26 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FFDD001B20A34C6000C5AA26 /* Main.storyboard */; };
+		FFDD001F20A34C6200C5AA26 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FFDD001E20A34C6200C5AA26 /* Assets.xcassets */; };
+		FFDD002220A34C6200C5AA26 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FFDD002020A34C6200C5AA26 /* LaunchScreen.storyboard */; };
+		FFDD002B20A34C7900C5AA26 /* Block.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFDD002A20A34C7900C5AA26 /* Block.swift */; };
+		FFDD002D20A35F8B00C5AA26 /* Data+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFDD002C20A35F8B00C5AA26 /* Data+Extension.swift */; };
+		FFDD002F20A35FA400C5AA26 /* Transaction.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFDD002E20A35FA400C5AA26 /* Transaction.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		FF73632920A37F760033E9AB /* BlockchainSwift-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "BlockchainSwift-Bridging-Header.h"; sourceTree = "<group>"; };
+		FF73632A20A380220033E9AB /* Blockchain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Blockchain.swift; sourceTree = "<group>"; };
