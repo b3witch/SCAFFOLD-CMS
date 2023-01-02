@@ -48,3 +48,23 @@
 
 /* Begin PBXGroup section */
 		FF73632C20A381D60033E9AB /* Application Delegate */ = {
+			isa = PBXGroup;
+			children = (
+				FFDD001720A34C6000C5AA26 /* AppDelegate.swift */,
+			);
+			path = "Application Delegate";
+			sourceTree = "<group>";
+		};
+		FF73632D20A381DF0033E9AB /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				FFDD001920A34C6000C5AA26 /* ViewController.swift */,
+			);
+			path = "View Controllers";
+			sourceTree = "<group>";
+		};
+		FF73632E20A381EC0033E9AB /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				FFDD001B20A34C6000C5AA26 /* Main.storyboard */,
+				FFDD001E20A34C6200C5AA26 /* Assets.xcassets */,
