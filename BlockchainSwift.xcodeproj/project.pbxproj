@@ -123,3 +123,26 @@
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FFDD001320A34C6000C5AA26 /* BlockchainSwift */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FFDD002620A34C6200C5AA26 /* Build configuration list for PBXNativeTarget "BlockchainSwift" */;
+			buildPhases = (
+				FFDD001020A34C6000C5AA26 /* Sources */,
+				FFDD001120A34C6000C5AA26 /* Frameworks */,
+				FFDD001220A34C6000C5AA26 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BlockchainSwift;
+			productName = BlockchainSwift;
+			productReference = FFDD001420A34C6000C5AA26 /* BlockchainSwift.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FFDD000C20A34C6000C5AA26 /* Project object */ = {
