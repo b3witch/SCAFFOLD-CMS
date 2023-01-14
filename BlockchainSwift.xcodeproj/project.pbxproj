@@ -98,3 +98,28 @@
 			);
 			name = Products;
 			sourceTree = "<group>";
+		};
+		FFDD001620A34C6000C5AA26 /* BlockchainSwift */ = {
+			isa = PBXGroup;
+			children = (
+				FF73632C20A381D60033E9AB /* Application Delegate */,
+				FF73633020A384D40033E9AB /* BlockchainManager.swift */,
+				FF73632D20A381DF0033E9AB /* View Controllers */,
+				FFDD002920A34C6E00C5AA26 /* Models */,
+				FF73632E20A381EC0033E9AB /* UI */,
+				FF73632F20A381F10033E9AB /* Other */,
+			);
+			path = BlockchainSwift;
+			sourceTree = "<group>";
+		};
+		FFDD002920A34C6E00C5AA26 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				FFDD002A20A34C7900C5AA26 /* Block.swift */,
+				FFDD002E20A35FA400C5AA26 /* Transaction.swift */,
+				FF73632A20A380220033E9AB /* Blockchain.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
