@@ -68,3 +68,33 @@
 			children = (
 				FFDD001B20A34C6000C5AA26 /* Main.storyboard */,
 				FFDD001E20A34C6200C5AA26 /* Assets.xcassets */,
+				FFDD002020A34C6200C5AA26 /* LaunchScreen.storyboard */,
+			);
+			path = UI;
+			sourceTree = "<group>";
+		};
+		FF73632F20A381F10033E9AB /* Other */ = {
+			isa = PBXGroup;
+			children = (
+				FFDD002320A34C6200C5AA26 /* Info.plist */,
+				FFDD002C20A35F8B00C5AA26 /* Data+Extension.swift */,
+				FF73632920A37F760033E9AB /* BlockchainSwift-Bridging-Header.h */,
+			);
+			path = Other;
+			sourceTree = "<group>";
+		};
+		FFDD000B20A34C6000C5AA26 = {
+			isa = PBXGroup;
+			children = (
+				FFDD001620A34C6000C5AA26 /* BlockchainSwift */,
+				FFDD001520A34C6000C5AA26 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FFDD001520A34C6000C5AA26 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FFDD001420A34C6000C5AA26 /* BlockchainSwift.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
