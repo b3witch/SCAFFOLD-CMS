@@ -198,3 +198,32 @@
 				FFDD001A20A34C6000C5AA26 /* ViewController.swift in Sources */,
 				FFDD001820A34C6000C5AA26 /* AppDelegate.swift in Sources */,
 				FF73633120A384D40033E9AB /* BlockchainManager.swift in Sources */,
+				FFDD002D20A35F8B00C5AA26 /* Data+Extension.swift in Sources */,
+				FFDD002F20A35FA400C5AA26 /* Transaction.swift in Sources */,
+				FF73632B20A380220033E9AB /* Blockchain.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		FFDD001B20A34C6000C5AA26 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FFDD001C20A34C6000C5AA26 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		FFDD002020A34C6200C5AA26 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FFDD002120A34C6200C5AA26 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		FFDD002420A34C6200C5AA26 /* Debug */ = {
