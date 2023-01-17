@@ -172,3 +172,29 @@
 			projectRoot = "";
 			targets = (
 				FFDD001320A34C6000C5AA26 /* BlockchainSwift */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FFDD001220A34C6000C5AA26 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FFDD002220A34C6200C5AA26 /* LaunchScreen.storyboard in Resources */,
+				FFDD001F20A34C6200C5AA26 /* Assets.xcassets in Resources */,
+				FFDD001D20A34C6000C5AA26 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FFDD001020A34C6000C5AA26 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FFDD002B20A34C7900C5AA26 /* Block.swift in Sources */,
+				FFDD001A20A34C6000C5AA26 /* ViewController.swift in Sources */,
+				FFDD001820A34C6000C5AA26 /* AppDelegate.swift in Sources */,
+				FF73633120A384D40033E9AB /* BlockchainManager.swift in Sources */,
