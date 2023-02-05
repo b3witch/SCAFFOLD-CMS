@@ -384,3 +384,24 @@
 
 /* Begin XCConfigurationList section */
 		FFDD000F20A34C6000C5AA26 /* Build configuration list for PBXProject "BlockchainSwift" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FFDD002420A34C6200C5AA26 /* Debug */,
+				FFDD002520A34C6200C5AA26 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FFDD002620A34C6200C5AA26 /* Build configuration list for PBXNativeTarget "BlockchainSwift" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FFDD002720A34C6200C5AA26 /* Debug */,
+				FFDD002820A34C6200C5AA26 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FFDD000C20A34C6000C5AA26 /* Project object */;
+}
