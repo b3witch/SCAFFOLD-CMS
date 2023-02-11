@@ -3,3 +3,6 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "self:BlockchainSwift.xcodeproj">
+   </FileRef>
+</Workspace>
