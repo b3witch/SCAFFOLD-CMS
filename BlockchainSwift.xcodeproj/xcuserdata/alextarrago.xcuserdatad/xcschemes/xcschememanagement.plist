@@ -6,4 +6,5 @@
 	<dict>
 		<key>BlockchainSwift.xcscheme</key>
 		<dict>
-			<key>orderHin
+			<key>orderHint</key>
+			<integer>0</inte
